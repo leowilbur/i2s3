@@ -1,4 +1,4 @@
-module i2s3
+module github.com/leowilbur/i2s3
 
 go 1.18
 
