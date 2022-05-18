@@ -1,4 +1,4 @@
-module i2s3
+module leowilbur/i2s3
 
 go 1.18
 
